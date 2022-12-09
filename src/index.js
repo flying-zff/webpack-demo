@@ -8,6 +8,7 @@ function component() {
     const element =  document.createElement('div');
     const btn = document.createElement('button');
     element.innerHTML = ['Hello', 'webpack'].join(' ');
+
     // element.classList.add('hello')
     // const myIcon = new Image();
     // myIcon.src = Icon;
